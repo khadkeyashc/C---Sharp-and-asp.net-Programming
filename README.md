@@ -1,4 +1,4 @@
-# C#-Programming
+# C# and Asp.net Programming
 This repository contains a comprehensive collection of beginner-to-intermediate C# console and Windows Forms applications. These examples help learners understand the core concepts of C# and apply them in real-world applications.
 What You'll Learn
 🔹 Console Applications
