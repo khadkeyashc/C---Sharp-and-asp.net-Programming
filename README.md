@@ -40,6 +40,5 @@ Displaying data reports using the Crystal Report Viewer
 Basic understanding of C# syntax
 Visual Studio (for Windows Forms and console app development)
 SQL Server for database-related examples
-This repository is intended for educational purposes. You are free to reuse and modify the code for personal or academic projects.
-You Can Modify it for Your Purpose.
+
 
