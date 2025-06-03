@@ -1,0 +1,8 @@
+C:\Users\YASH\source\repos\primr\primr\bin\Debug\primr.exe.config
+C:\Users\YASH\source\repos\primr\primr\bin\Debug\primr.exe
+C:\Users\YASH\source\repos\primr\primr\bin\Debug\primr.pdb
+C:\Users\YASH\source\repos\primr\primr\obj\Debug\primr.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\primr\primr\obj\Debug\primr.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\primr\primr\obj\Debug\primr.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\primr\primr\obj\Debug\primr.exe
+C:\Users\YASH\source\repos\primr\primr\obj\Debug\primr.pdb

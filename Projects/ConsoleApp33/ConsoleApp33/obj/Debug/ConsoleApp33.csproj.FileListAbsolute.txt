@@ -1,0 +1,8 @@
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\ConsoleApp33.exe.config
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\ConsoleApp33.exe
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\bin\Debug\ConsoleApp33.pdb
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.exe
+C:\Users\YASH\source\repos\ConsoleApp33\ConsoleApp33\obj\Debug\ConsoleApp33.pdb

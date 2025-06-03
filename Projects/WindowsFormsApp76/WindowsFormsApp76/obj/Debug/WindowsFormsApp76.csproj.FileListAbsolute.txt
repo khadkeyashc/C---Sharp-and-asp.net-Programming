@@ -1,0 +1,11 @@
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\bin\Debug\WindowsFormsApp76.exe.config
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\bin\Debug\WindowsFormsApp76.exe
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\bin\Debug\WindowsFormsApp76.pdb
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.Form1.resources
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.Properties.Resources.resources
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.csproj.GenerateResource.cache
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.exe
+C:\Users\YASH\source\repos\WindowsFormsApp76\WindowsFormsApp76\obj\Debug\WindowsFormsApp76.pdb

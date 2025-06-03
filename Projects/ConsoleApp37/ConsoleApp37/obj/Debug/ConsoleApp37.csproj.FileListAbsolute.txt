@@ -1,0 +1,8 @@
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe.config
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.exe
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\bin\Debug\ConsoleApp37.pdb
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.exe
+C:\Users\YASH\source\repos\ConsoleApp37\ConsoleApp37\obj\Debug\ConsoleApp37.pdb

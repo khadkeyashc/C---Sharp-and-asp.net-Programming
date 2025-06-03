@@ -1,0 +1,11 @@
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.Form1.resources
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.Properties.Resources.resources
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.GenerateResource.cache
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\bin\Debug\WindowsFormsApp38.exe.config
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\bin\Debug\WindowsFormsApp38.exe
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\bin\Debug\WindowsFormsApp38.pdb
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.exe
+C:\Users\YASH\source\repos\WindowsFormsApp38\WindowsFormsApp38\obj\Debug\WindowsFormsApp38.pdb

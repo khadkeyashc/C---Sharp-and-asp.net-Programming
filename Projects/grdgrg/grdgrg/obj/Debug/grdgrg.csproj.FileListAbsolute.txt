@@ -1,0 +1,11 @@
+C:\Users\YASH\source\repos\grdgrg\grdgrg\bin\Debug\grdgrg.exe.config
+C:\Users\YASH\source\repos\grdgrg\grdgrg\bin\Debug\grdgrg.exe
+C:\Users\YASH\source\repos\grdgrg\grdgrg\bin\Debug\grdgrg.pdb
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.Form1.resources
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.Properties.Resources.resources
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.csproj.GenerateResource.cache
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.exe
+C:\Users\YASH\source\repos\grdgrg\grdgrg\obj\Debug\grdgrg.pdb

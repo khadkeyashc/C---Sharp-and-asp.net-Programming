@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>img7.png</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText>Image Is Not Available</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>img8.png</ImageUrl>
+		<NavigateUrl>https://chat.openai.com/c/305aac2b-c512-4ee6-b9e9-db4ede45cd1c</NavigateUrl>
+		<AlternateText>Image Is Not Available</AlternateText>
+	</Ad>
+</Advertisements>

@@ -1,0 +1,28 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebApplication78.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="wrapper">
+            <div class="Header">
+                <h1><b><i>This Is The Header Of The Website</i></b></h1>
+                Welcome To Vegamovies
+            </div>
+            <div class="Content">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </div>
+            <div class="Footer">
+                <h1><b><i>All Rights Reserved &copy;2018</i></b></h1>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

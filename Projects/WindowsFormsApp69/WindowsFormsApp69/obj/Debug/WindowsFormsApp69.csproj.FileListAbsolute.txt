@@ -1,0 +1,11 @@
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\bin\Debug\WindowsFormsApp69.exe.config
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\bin\Debug\WindowsFormsApp69.exe
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\bin\Debug\WindowsFormsApp69.pdb
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.Form1.resources
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.Properties.Resources.resources
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csproj.GenerateResource.cache
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.exe
+C:\Users\YASH\source\repos\WindowsFormsApp69\WindowsFormsApp69\obj\Debug\WindowsFormsApp69.pdb

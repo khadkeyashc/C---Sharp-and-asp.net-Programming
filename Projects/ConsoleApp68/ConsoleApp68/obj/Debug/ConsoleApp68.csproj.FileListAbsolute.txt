@@ -1,0 +1,8 @@
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\bin\Debug\ConsoleApp68.exe.config
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\bin\Debug\ConsoleApp68.exe
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\bin\Debug\ConsoleApp68.pdb
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.exe
+C:\Users\YASH\source\repos\ConsoleApp68\ConsoleApp68\obj\Debug\ConsoleApp68.pdb

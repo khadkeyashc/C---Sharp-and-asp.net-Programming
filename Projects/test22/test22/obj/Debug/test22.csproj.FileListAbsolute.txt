@@ -1,0 +1,11 @@
+C:\Users\YASH\source\repos\test22\test22\bin\Debug\test22.exe.config
+C:\Users\YASH\source\repos\test22\test22\bin\Debug\test22.exe
+C:\Users\YASH\source\repos\test22\test22\bin\Debug\test22.pdb
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.Form1.resources
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.Properties.Resources.resources
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.csproj.GenerateResource.cache
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.exe
+C:\Users\YASH\source\repos\test22\test22\obj\Debug\test22.pdb

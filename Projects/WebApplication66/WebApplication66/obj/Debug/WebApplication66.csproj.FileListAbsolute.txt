@@ -1,0 +1,2 @@
+C:\Users\YASH\source\repos\WebApplication66\WebApplication66\obj\Debug\WebApplication66.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\WebApplication66\WebApplication66\obj\Debug\WebApplication66.csproj.CoreCompileInputs.cache

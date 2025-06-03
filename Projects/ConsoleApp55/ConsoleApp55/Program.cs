@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp55
+{
+    public interface drawable
+    {
+         void draw();
+    }
+    public class Rectangle:drawable
+    {
+        public void draw()
+        {
+            Console.WriteLine("Drawing Recangle");
+        }
+    }
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            drawable d = new Rectangle();
+            d.draw();
+            Console.ReadKey();
+        }
+    }
+}

@@ -1,0 +1,11 @@
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe.config
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.exe
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\bin\Debug\WindowsFormsApp35.pdb
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Form1.resources
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.Properties.Resources.resources
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.GenerateResource.cache
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.exe
+C:\Users\YASH\source\repos\WindowsFormsApp35\WindowsFormsApp35\obj\Debug\WindowsFormsApp35.pdb

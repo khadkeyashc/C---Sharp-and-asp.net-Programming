@@ -1,0 +1,8 @@
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe.config
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.exe
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\bin\Debug\ConsoleApp51.pdb
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.AssemblyReference.cache
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.SuggestedBindingRedirects.cache
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.csproj.CoreCompileInputs.cache
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.exe
+C:\Users\YASH\source\repos\ConsoleApp51\ConsoleApp51\obj\Debug\ConsoleApp51.pdb

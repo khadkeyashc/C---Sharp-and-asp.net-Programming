@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>ab.jpeg</ImageUrl>
+		<NavigateUrl>https://www.javaTpoint.com</NavigateUrl>
+		<AlternateText>Image Is Not Available</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>ac.jpeg</ImageUrl>
+		<NavigateUrl>https://www.youtube.com/</NavigateUrl>
+		<AlternateText>Image Is Not Available</AlternateText>
+	</Ad>
+</Advertisements>

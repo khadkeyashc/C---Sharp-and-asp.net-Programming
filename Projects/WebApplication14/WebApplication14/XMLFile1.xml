@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+	<Ad>
+		<ImageUrl>img7.png</ImageUrl>
+		<NavigateUrl></NavigateUrl>
+		<AlternateText>hiiiii</AlternateText>
+	</Ad>
+	<Ad>
+		<ImageUrl>img8.png</ImageUrl>
+		<NavigateUrl></NavigateUrl>
+		<AlternateText>viiiiii</AlternateText>
+	</Ad>
+</Advertisements>
